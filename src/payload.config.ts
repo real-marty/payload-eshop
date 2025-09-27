@@ -42,4 +42,7 @@ export default buildConfig({
     payloadCloudPlugin(),
     // storage-adapter-placeholder
   ],
+  graphQL: {
+    disable: true
+  }
 })
