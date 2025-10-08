@@ -23,6 +23,9 @@ importers:
       '@payloadcms/richtext-lexical':
         specifier: ^3.57.0
         version: 3.57.0(@faceless-ui/modal@3.0.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(@faceless-ui/scroll-info@2.0.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(@payloadcms/next@3.57.0(@types/react@19.1.13)(graphql@16.11.0)(monaco-editor@0.53.0)(next@15.5.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(sass@1.77.4))(payload@3.57.0(graphql@16.11.0)(typescript@5.9.2))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(typescript@5.9.2))(@types/react@19.1.13)(monaco-editor@0.53.0)(next@15.5.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(sass@1.77.4))(payload@3.57.0(graphql@16.11.0)(typescript@5.9.2))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(typescript@5.9.2)(yjs@13.6.27)
+      '@payloadcms/ui':
+        specifier: ^3.57.0
+        version: 3.57.0(@types/react@19.1.13)(monaco-editor@0.53.0)(next@15.5.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(sass@1.77.4))(payload@3.57.0(graphql@16.11.0)(typescript@5.9.2))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(typescript@5.9.2)
       '@radix-ui/react-accordion':
         specifier: ^1.2.12
         version: 1.2.12(@types/react-dom@19.1.9(@types/react@19.1.13))(@types/react@19.1.13)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
